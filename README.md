@@ -5,7 +5,7 @@ Tenha tudo o que precisa para organizar seu dia de trabalho em um só lugar: not
 
 ## ✨ Funcionalidades
 
-- **Janelas flutuantes**: Abra, mova, redimensione e feche apps como em um desktop.
+- * *Janelas flutuantes**: Abra, mova, redimensione e feche apps como em um desktop.
 - **Notas rápidas**: Sticky notes coláveis e editáveis.
 - **To-Do List**: Gerencie suas tarefas do dia.
 - **Checklist de Deploy**: Não esqueça nenhum passo antes de publicar!
